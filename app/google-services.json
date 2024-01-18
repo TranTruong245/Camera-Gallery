@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380674458568",
+    "project_id": "cameraandgallery-c2dca",
+    "storage_bucket": "cameraandgallery-c2dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380674458568:android:529bc17ea74df04d4ef6fd",
+        "android_client_info": {
+          "package_name": "net.smallacademy.cameraandgallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_y9FimWi0NsiHMhEjbrT_z56tccagEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
